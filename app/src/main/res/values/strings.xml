@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SQL Database Content Provider~KanuShetkar</string>
+    <string name="nationalNumber">National Number</string>
+    <string name="base_stats">Base Stats</string>
+    <string name="poke_tracker">Poke - Tracker</string>
+    <string name="register_new_catch">Register new catch</string>
+    <string name="species">Species</string>
+    <string name="gender">Gender</string>
+    <string name="name">Name</string>
+    <string name="save">Save</string>
+    <string name="hp">HP</string>
+    <string name="Defense">Defense</string>
+    <string name="attack">Attack</string>
+    <string name="nationalnumber">NationalNumber</string>
+    <string name="reset">Reset</string>
+    <string name="level">Level</string>
+</resources>
